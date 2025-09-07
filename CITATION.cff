@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "RATAQ: Road Infrastructure Damage Detection Model"
+authors:
+  - family-names: "Almutairi"
+    given-names: "Njoud"
+repository-code: "https://github.com/njoudalmutairi111-glitch/RATAQ"
+license: "AGPL-3.0"
+date-released: "2025-09-07"
+version: "1.0.0"
